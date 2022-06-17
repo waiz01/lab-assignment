@@ -1,0 +1,19 @@
+
+.eyeBtn{
+	position: absolute;
+	right: 30px;
+	transform: translate(0,-50%);
+	top: 58%;
+	cursor: pointer;
+}
+.eyeBtn1{
+	position: absolute;
+	right: 30px;
+	
+	top: 73%;
+	cursor: pointer;
+}
+.fa{
+	font-size:20px;
+	color: #7a797e;
+}
